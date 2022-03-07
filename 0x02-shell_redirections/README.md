@@ -8,3 +8,4 @@ script that displays the third line of the file iacta
 7-file creates a file name with special characters
 8-cwd_state is a script that stdout into ls_cwd_content file the command ls -la
 9-duplicate_last_line is a script that duplicates the last line of a file
+'10-no_more_js' deletes all .js files in dir and sub dir
