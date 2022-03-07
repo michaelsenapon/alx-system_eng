@@ -6,3 +6,4 @@
 5-firstlines		Displayed the first 10 lines (Head) of /etc/passwd file
 script that displays the third line of the file iacta
 7-file creates a file name with special characters
+8-cwd_state is a script that stdout into ls_cwd_content file the command ls -la
