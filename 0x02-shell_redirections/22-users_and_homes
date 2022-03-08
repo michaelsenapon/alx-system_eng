@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -u | cut -d':' -f'1,6'
+sort -V | cut -d':' -f'1,6'
