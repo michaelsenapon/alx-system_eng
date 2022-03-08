@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -V | cut -d':' -f'1,6'
+cut -d':' -f 1,6 /etc/password | sort -d
