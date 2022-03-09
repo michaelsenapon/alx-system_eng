@@ -1,2 +1,2 @@
 #!/bin/bash
-bconvert.sh -o 16 DECIMAL
+printf "%x\n" $DECIMAL
