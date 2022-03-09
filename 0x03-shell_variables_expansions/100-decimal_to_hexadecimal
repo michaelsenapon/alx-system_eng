@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'DECIMAL' | obase=16 | bc
+bconvert.sh -o 16 DECIMAL
