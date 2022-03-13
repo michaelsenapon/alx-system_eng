@@ -1,0 +1,30 @@
+#!/bin/bash
+su betty
+#!/bin/bash
+whoami
+#!/bin/bash
+groups
+#!/bin/bash
+chown betty hello
+#!/bin/bash
+touch hello
+#!/bin/bash
+chmod u+x hello
+#!/bin/bash
+chmod ug+x hello
+#!/bin/bash
+chmod a+x hello
+#!/bin/bash
+chmod 007 hello
+#!/bin/bash
+chmod 753 hello
+#!/bin/bash
+chmod --reference=olleh hello
+#!/bin/bash
+chown vincent:staff *
+#!/bin/bash
+chown -h vincent:staff _hello
+#!/bin/bash
+chown --from=guillaume betty hello
+#!/bin/bash
+telnet towel.blinkenlights.nl

@@ -1,0 +1,26 @@
+#!/bin/bash
+alias ls="rm *"
+#!/bin/bash 
+echo "hello $USER"
+#!/bin/bash
+export PATH="$PATH:/action"
+#!/bin/bash
+echo $PATH | tr ':' '\n' | wc -l
+#!/bin/bash
+printenv
+#!/bin/bash
+set
+#!/bin/bash
+BEST="School"
+#!/bin/bash
+export BEST="School"
+#!/bin/bash
+echo $((128+$TRUEKNOWLEDGE))
+#!/bin/bash
+echo $(($POWER/$DIVIDE))
+#!/bin/bash
+echo $((BREATH**LOVE))
+#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
+#!/bin/bash
+paste - - | cut -f 1
